@@ -6,8 +6,8 @@ nodejs 공부
 
 | 공부| 내용|
 |----|----|
-| Axios 크롤링 | axios,cheerio 을 통한 크롤링 방법|
-| 렌더링 |  |
+| Axios, Cheerio | axios,cheerio 모듈을 통한 크롤링 방법|
+| Pupppeteer | 렌더링되는 과정 및 Puppeteer 크롤링 사용하기|
 | | |
 | | |
 | | |
